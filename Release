@@ -1,8 +1,8 @@
 Origin: https://clarencebain.github.io/cydia-repo/
-Label: https://clarencebain.github.io/cydia-repo/
+Label: Clarence's Corner of the Universe
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: A github repo
+Description: Clarence's Corner of the Universe
