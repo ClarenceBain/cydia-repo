@@ -1,14 +1,14 @@
 Package: com.reddit.omni
 Name: Omni
-Version: 6.6
+Version: 7.0
 Architecture: iphoneos-arm
 Description: A tweak to make the official Reddit app better.
 Maintainer: Clarence
 Author: Clarence
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/omni66.deb
-Size: 56802
-MD5sum: 7e8f8aa0b2b8f032078259344015d94d
-SHA1: c2ad10bd261036ecb59ec387b3b00f66208d0e3b
-SHA256: 66f02e274974725dc0511a4af2d14e9c04027519fb436b45e672b750c04f64e1
+Filename: debs/omni7.deb
+Size: 59544
+MD5sum: 786ce275f229956af254b8707b7bd1a2
+SHA1: 35fbd855e6f6bb66dfc77a9ded235463891a47c8
+SHA256: a1e4f3a952a6e6be11e8e0d4a5c39559b0b00a19ed199f67138ed77caaf4f949
